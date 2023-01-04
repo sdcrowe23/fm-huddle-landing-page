@@ -1,0 +1,19 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+}
+
+:root {
+  --pink: hsl(322, 100%, 66%);
+  --pale-cyan: hsl(193, 100%, 96%);
+  --grayish-blue: hsl(208, 11%, 55%);
+}
